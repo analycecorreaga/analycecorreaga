@@ -1,4 +1,4 @@
-# 👩‍💻 Analyce Correa Garcia Angelo  
+#  Analyce Correa Garcia Angelo  
 
 <table>
 <tr>
@@ -26,7 +26,7 @@ I am constantly learning and improving my skills to become a professional develo
 
 ## 🔗 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-analycecorreaga-black?logo=github)](https://github.com/analycecorreaga)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Analyce%20Correa-blue?logo=linkedin)](https://www.linkedin.com/in/analyce-correa-431356381/)
 
 📧 **Email:** analycecorrea@gmail.com  
 
