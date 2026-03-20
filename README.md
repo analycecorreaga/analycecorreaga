@@ -2,8 +2,6 @@
 
 <table>
 <tr>
-<td width="35%">
-</td>
 
 <td width="65%">
 
