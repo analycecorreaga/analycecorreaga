@@ -54,15 +54,6 @@ I am constantly learning and improving my skills to become a professional develo
 
 ---
 
-## 📌 Focus Areas
-
-- Programming fundamentals  
-- Logic and algorithms  
-- Software development  
-- Continuous learning  
-
----
-
 ## 📈 Currently Learning
 
 <table>
@@ -77,13 +68,6 @@ I am constantly learning and improving my skills to become a professional develo
 </td>
 </tr>
 </table>
-
----
-
-## 💡 Projects
-
-I am currently building small projects to develop my skills and gain practical experience in programming.
-
 ---
 
 ## ⚡ Mindset
