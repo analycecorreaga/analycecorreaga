@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Analyce Correa, a **Software Engineering student**, based in Lorena (SP), Brazil.
+I'm Analyce Correa, a **Computer Engineering student**, based in Lorena (SP), Brazil.
 
 I am focused on **technology and programming**, building a solid foundation in software development, logic, and problem-solving.
 
