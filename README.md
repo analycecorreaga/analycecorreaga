@@ -1,15 +1,6 @@
 #  Analyce Correa Garcia Angelo  
 
 <table>
-<tr>
-<td width="35%">
-
-<img src="https://github.com/analycecorreaga.png" width="100%"/>
-
-</td>
-
-<td width="65%">
-
 ## 👩‍💻 About Me
 
 I'm Analyce Correa, a **Software Engineering student**, based in Lorena (SP), Brazil.
