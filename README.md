@@ -43,7 +43,7 @@ I am constantly learning and improving my skills to become a professional develo
 <td align="center">
 
 ### ⚙️ Tools & Technologies  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,arduino" />
 
 </td>
 </tr>
